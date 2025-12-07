@@ -28,3 +28,31 @@ main
 | Dev Tools | dotenv                     |
 
 Issues & Actions to look into:
+## How to Build & Run the App
+
+Follow these steps to run the project locally:
+
+# 1. Clone the repository
+git clone https://github.com/abdirxhmxn/betOnMe.git
+cd <your-project-folder>
+
+# 2. Install server dependencies
+npm install
+
+# 3. Set up environment variables
+Set up the necessary environment variables in your `.env` file.
+
+# 4. Run the server
+npm run dev
+(or npm start if you're not using nodemon)
+
+# 5. Run the client 
+cd client
+npm start
+
+# 6. Open the app
+
+Navigate to:
+
+http://localhost:3000   → client
+http://localhost:5000   → backend API
