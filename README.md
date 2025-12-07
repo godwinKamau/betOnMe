@@ -1,5 +1,5 @@
 # betOnMe
-
+_Users can compete against their friends to help build habits!_
 
 1 master version bub
 branches/forks for each team
@@ -12,10 +12,11 @@ main
 
 
 
-Tech Stack: 
-EJS CSS JS
-Node.js Express
-Passport.js
-MongoDB
+## Tech Stack: 
+| Category  | Tools                               |
+| --------- | ----------------------------------- |
+| Backend   | Node.js, Express, Mongoose, MongoDB |
+| Frontend  | EJS, HTML, CSS, JavaScript          |
+| Dev Tools | dotenv                     |
 
 Issues & Actions to look into:
