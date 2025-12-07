@@ -1,5 +1,5 @@
 # betOnMe
-
+_Users can compete against their friends to help build habits!_
 
 1 master version bub
 branches/forks for each team
